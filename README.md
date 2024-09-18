@@ -11,7 +11,7 @@ Motivated and results-driven full-stack developer with 3 years of learning exper
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Ashwin613772?theme=dark&font=Noto%20Sans%20Mandaic)
 
 # To view my college github click the link below
-<a href="https://github.com/ashwin4315" target="blank">
+<a href="https://github.com/ashwin20031" target="blank">
 <img align="center" src="https://img.icons8.com/?size=100&id=62856&format=png&color=000000" alt="major_peace_46" height="40" width="40" s /> my college github link
 </a>
 
